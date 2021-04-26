@@ -1,11 +1,11 @@
 ## Galaxy
 
-![alt text](https://raw.githubusercontent.com/saanny/Galaxy/main/static/galaxys.png)
+![alt text](https://raw.githubusercontent.com/saanny/Wave-/main/static/shader.png)
 
 ## Demo
 
 ```bash
-https://lwvgh.csb.app/
+
 ```
 
 ## Setup
